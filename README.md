@@ -1,2 +1,0 @@
-# fiu-programming
-School work
